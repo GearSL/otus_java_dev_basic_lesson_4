@@ -1,3 +1,5 @@
+package kz.ibr.homeworks.lesson4;
+
 import java.util.Base64;
 import java.util.Scanner;
 
